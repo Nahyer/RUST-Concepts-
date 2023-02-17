@@ -1,0 +1,1 @@
+C:\Users\REYHAN\RUST\exercises\ultimate_rust_crash_course\exercise\3_simple_types\target\debug\ding_machine.exe: C:\Users\REYHAN\RUST\exercises\ultimate_rust_crash_course\exercise\3_simple_types\src\lib.rs C:\Users\REYHAN\RUST\exercises\ultimate_rust_crash_course\exercise\3_simple_types\src\main.rs
