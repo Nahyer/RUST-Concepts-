@@ -5,7 +5,7 @@
 fn main() {
     // This collects any command-line arguments into a vector of Strings.
     // vec!["apple".to_string(), "banana".to_string()]
-    
+
     let args: Vec<String> = std::env::args().skip(1).collect();
 
     // This consumes the `args` vector to iterate through each String
@@ -48,6 +48,7 @@ fn double() {
 
 fn count(arg: String) {
     let mut counter = 0;
+    
     loop {
         // an unconditinal statement that prints arg 8 times then breaks.
         print!("{} ", arg);
